@@ -1,8 +1,13 @@
-## Nguyen Dinh Duy
+## Hi! I'm Nguyen Dinh Duy!
 
 CS Sophomore @UMass Amherst.
 
-Interested in AI/ML & Cloud/Infra.
+Full stack developer based in Hanoi. I build AI-integrated applications for the betterment of the future!
+Learning and developing things with AI/ML & Cloud/Infra.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/dinhduydev)
+
+
 
 <!-- - Open to work 💻 💼. -->
 <!-- - 🌱 I’m currently learning C, OpenCV, Java, DSA, LeetCode -->
