@@ -1,13 +1,21 @@
 ## Hi there, I'm Edward Nguyen.
 
-CS Sophomore @UMass Amherst.
+💻 CS Sophomore @UMass Amherst.
+💼 Open to work!
 
-Full stack developer based in Hanoi. I build AI-integrated applications for the betterment of the future!
+Full stack developer based in Hanoi. I build AI-integrated applications for the betterment of the future! <br>
+
 Learning and developing things with AI/ML & Cloud/Infra.
 
+## Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=c,java,nodejs,python,mysql,html,css,git)](https://skillicons.dev)<br>
+## LinkedIn and Portfolio
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/dinhduydev)
 [![Portfolio](https://img.shields.io/badge/portfolio%20website-FF00FF)](https://linkedin.com/in/dinhduydev)
+
+Contacts:
+📧 Email: duydn.0714@gmail.com.
+☎️ Phone: +1 (413) 687-7649.
 
 
 <!-- - Open to work 💻 💼. -->
