@@ -1,5 +1,9 @@
 ## Nguyen Dinh Duy
 
+CS Sophomore @UMass Amherst.
+
+Interested in AI/ML & Cloud/Infra.
+
 <!-- - Open to work 💻 💼. -->
 <!-- - 🌱 I’m currently learning C, OpenCV, Java, DSA, LeetCode -->
   <!-- 👯 I’m looking to collaborate on ... -->
