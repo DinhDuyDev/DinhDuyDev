@@ -7,7 +7,7 @@ Learning and developing things with AI/ML & Cloud/Infra.
 
 [![My Skills](https://skillicons.dev/icons?i=c,java,nodejs,python,mysql,html,css,git)](https://skillicons.dev)<br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/dinhduydev)
-[![Portfolio](https://img.shields.io/badge/Portfolio_website)](https://linkedin.com/in/dinhduydev)
+[![Portfolio](https://img.shields.io/badge/portfolio%20website)](https://linkedin.com/in/dinhduydev)
 
 
 <!-- - Open to work 💻 💼. -->
