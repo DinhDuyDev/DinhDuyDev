@@ -1,4 +1,4 @@
-## Hi! I'm Nguyen Dinh Duy!
+## Hi there, I'm Eddie Nguyen.
 
 CS Sophomore @UMass Amherst.
 
