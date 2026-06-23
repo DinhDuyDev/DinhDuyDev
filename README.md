@@ -1,4 +1,4 @@
-## Hi there, I'm Eddie Nguyen.
+## Hi there, I'm Edward Nguyen.
 
 CS Sophomore @UMass Amherst.
 
@@ -6,7 +6,7 @@ Full stack developer based in Hanoi. I build AI-integrated applications for the 
 Learning and developing things with AI/ML & Cloud/Infra.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/dinhduydev)
-
+[![My Skills](https://skillicons.dev/icons?i=c,java,nodejs,python,mysql,html,css,git)](https://skillicons.dev)
 
 
 <!-- - Open to work 💻 💼. -->
