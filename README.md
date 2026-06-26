@@ -15,7 +15,12 @@ Learning and developing things with AI/ML & Cloud/Infra.
 
 ### SciEncoder
 + A Tiny domain-specific encoder made for science text predictions (MaskedLM)
-+ Wrote multiple scripts to collect Open-Access popular science data.
++ Wrote multiple scripts to collect Open-Access popular science data, diversifying model database.
+
+### Game Of Life Simulator
++ A website dedicated to simulating Conway's Game Of Life.
++ Wrote an algorithm to simulate the original Game of Life.
++ Devised my own transition function and state set to make my own Cellular Automata.
 
 ### [Course Champ](https://course-champ.pages.dev/)
 + Built with HTML/CSS/JS, Python, FastAPI and Gemini API.
