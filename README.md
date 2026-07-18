@@ -6,6 +6,12 @@
 Full stack developer based in Hanoi. I build AI-integrated applications for the betterment of the future! <br>
 Learning and developing things with AI/ML & Cloud/Infra.
 
+## 📄 LinkedIn and Portfolio
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/dinhduydev)
+[![Portfolio](https://img.shields.io/badge/portfolio%20website-FF00FF)](https://linkedin.com/in/dinhduydev)
+[![Resume](https://img.shields.io/badge/resume-00FF00)](https://drive.google.com/file/d/1zJ66Q7_fa5B2C-a5XIxwGmM34Qc6oOfb/view?usp=sharing)
+<br>
+
 ## 🧠 Tech Stack
 <!-- [![My Skills](https://skillicons.dev/icons?i=c,java,nodejs,python,mysql,html,css,git)](https://skillicons.dev)<br> -->
 [![My Skills](https://skillicons.dev/icons?i=c,java,python,js,mysql,html,css,react,nodejs,fastapi,opencv,git,vscode,visualstudio,pycharm,idea,matplotlib&perline=6)](https://skillicons.dev)
@@ -40,12 +46,6 @@ and a complete system for test reminders.
 + Optimized performance by 40%, leading to a 5-10 seconds response time for the website.
 + Automated the tedious work of numerous college freshmen by saving much needed study time using AI to plan out their semester.
 
-
-## 📄 LinkedIn and Portfolio
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/dinhduydev)
-[![Portfolio](https://img.shields.io/badge/portfolio%20website-FF00FF)](https://linkedin.com/in/dinhduydev)
-[![Resume](https://img.shields.io/badge/resume-00FF00)](https://drive.google.com/file/d/1zJ66Q7_fa5B2C-a5XIxwGmM34Qc6oOfb/view?usp=sharing)
-<br>
 
 ## Contacts:
 📧 Email: duydn.0714@gmail.com.
