@@ -1,6 +1,6 @@
 # Hi there, I'm Edward Nguyen.
 
-💻 CS Sophomore @UMass Amherst.
+💻 CS Sophomore @UMass Amherst. <br>
 💼 Open to work!
 
 Full stack developer based in Hanoi. I build AI-integrated applications for the betterment of the future! <br>
