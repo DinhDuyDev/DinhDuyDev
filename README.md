@@ -10,12 +10,23 @@ Learning and developing things with AI/ML & Cloud/Infra.
 <!-- [![My Skills](https://skillicons.dev/icons?i=c,java,nodejs,python,mysql,html,css,git)](https://skillicons.dev)<br> -->
 [![My Skills](https://skillicons.dev/icons?i=c,java,python,js,mysql,html,css,react,nodejs,fastapi,opencv,git,vscode,visualstudio,pycharm,idea,matplotlib&perline=6)](https://skillicons.dev)
 
+##  💼 Work Experience:
+
+### Internship at FPT Software: June 2026 - Present @ Hoa Lac
++ Performed segmentation analysis on a 20,000+ user dataset, segmented users into low-engagement, moderate-engagement and high-engagement learners.
++ Identified low-engagement users as needing attention in a company-wide marketing campaign for higher user engagement in courses.
++ Assisted with coding a large project.
+
+### Coding Instructor & Hackathon Organizer: August 2023 - April 2024 @ BVIS Technology Committee, Hanoi, Vietnam
++ Directed an intermediate web development class the lead instructor. Taught HTML, CSS and JavaScript to 35 students.
++ Developed 75\% of the course's slides and lessons, with majority of learners approving of the lectures delivered.
++ Aided in delivery of more than 6 student finished projects that incorporated full HTML/CSS/JavaScript knowledge.
 
 ## 💡 Notable Projects
 
 ### SciEncoder
 + A Tiny domain-specific encoder made for science text predictions (MaskedLM)
-+ Wrote multiple scripts to collect Open-Access popular science data, diversifying model database.
++ Wrote multiple scripts to collect Open Access popular science data, diversifying model training data.
 
 ### Game Of Life Simulator
 + A website dedicated to simulating Conway's Game Of Life.
@@ -33,6 +44,7 @@ and a complete system for test reminders.
 ## 📄 LinkedIn and Portfolio
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/dinhduydev)
 [![Portfolio](https://img.shields.io/badge/portfolio%20website-FF00FF)](https://linkedin.com/in/dinhduydev)
+[![Resume](https://img.shields.io/badge/portfolio%20website-FF00FF)](https://drive.google.com/file/d/1zJ66Q7_fa5B2C-a5XIxwGmM34Qc6oOfb/view?usp=sharing)
 <br>
 
 ## Contacts:
