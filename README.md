@@ -24,11 +24,11 @@ Learning and developing things with AI/ML & Cloud/Infra.
 
 ## 💡 Notable Projects
 
-### SciEncoder
+### [SciEncoder](https://github.com/DinhDuyDev/sciencoder-massai)
 + A Tiny domain-specific encoder made for science text predictions (MaskedLM)
 + Wrote multiple scripts to collect Open Access popular science data, diversifying model training data.
 
-### Game Of Life Simulator
+### [Game Of Life Simulator](https://dinhduydev.github.io/automata_of_war/)
 + A website dedicated to simulating Conway's Game Of Life.
 + Wrote an algorithm to simulate the original Game of Life.
 + Devised my own transition function and state set to make my own Cellular Automata.
