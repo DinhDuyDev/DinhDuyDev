@@ -44,7 +44,7 @@ and a complete system for test reminders.
 ## 📄 LinkedIn and Portfolio
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/dinhduydev)
 [![Portfolio](https://img.shields.io/badge/portfolio%20website-FF00FF)](https://linkedin.com/in/dinhduydev)
-[![Resume](https://img.shields.io/badge/portfolio%20website-FF00FF)](https://drive.google.com/file/d/1zJ66Q7_fa5B2C-a5XIxwGmM34Qc6oOfb/view?usp=sharing)
+[![Resume](https://img.shields.io/badge/resume-FF00FF)](https://drive.google.com/file/d/1zJ66Q7_fa5B2C-a5XIxwGmM34Qc6oOfb/view?usp=sharing)
 <br>
 
 ## Contacts:
