@@ -1,10 +1,13 @@
 # Hi there, I'm Edward Nguyen.
+# Real name: Duy (pronounced as 'Zwee')
+# a.k.a. Sandmetheeyoy.
 
 💻 CS Sophomore @UMass Amherst. <br>
 💼 Open to work!
 
 Full stack developer based in Hanoi. I build AI-integrated applications for the betterment of the future! <br>
-Learning and developing things with AI/ML & Cloud/Infra.
+Learning and developing things with AI/ML & Cloud/Infra. <br>
+Hobbyist game developer with passion for software rendering / low level graphics control.
 
 ## 📄 Portfolio
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/dinhduydev)
@@ -47,6 +50,21 @@ and a complete system for test reminders.
 + Automated the tedious work of numerous college freshmen by saving much needed study time using AI to plan out their semester.
 
 ### [Project Cygnus]
++ Upcoming...
+
+##  🧰 Old Projects
+
+### [Biscuit-Syndicate](https://github.com/DinhDuyDev/syndicate-styled-action-squad-game)
++ Built with Python & Pygame Community Edition.
++ Large scale tech-demo with fully functional A* pathfinding, squad-organization and team-style combat.
++ Optimized A* pathfinding, reworked enemy AI to feature more lightweight, fast and intelligent combat behavior.
++ Devised a level editor with grid-tile filling, deletions, entity & decoration placement + a custom sprite editor.
+
+### [portalrenderer](https://github.com/DinhDuyDev/portalrenderer)
++ Built with C & SDL3.
++ Small-scale experiment to test texture mapping on arbitrary geometry.
++ Features arbitrary geometry, 75% functional portal rendering, 70% functional depth sorting and 60% functional plane collision.
++ Collisions and plane math logic supported by custom math and math derived from Jeffrey Thompson.
 
 ## Contacts:
 📧 Email: duydn.0714@gmail.com.
