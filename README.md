@@ -46,6 +46,7 @@ and a complete system for test reminders.
 + Optimized performance by 40%, leading to a 5-10 seconds response time for the website.
 + Automated the tedious work of numerous college freshmen by saving much needed study time using AI to plan out their semester.
 
+### [Project Cygnus]
 
 ## Contacts:
 📧 Email: duydn.0714@gmail.com.
