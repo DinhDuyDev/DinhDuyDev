@@ -1,8 +1,8 @@
 # Hi there, I'm Edward Nguyen.
 
 ## ℹ️ Basic Information
-Real name: Duy (pronounced as 'Zwee')
-a.k.a. Sandmetheeyoy.
+Real name: Duy (pronounced as 'Zwee') <br>
+a.k.a. Sandmetheeyoy. <br>
 💻 CS Sophomore @UMass Amherst. <br>
 💼 Open to work!
 
