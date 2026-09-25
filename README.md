@@ -12,7 +12,7 @@ Hobbyist game developer with passion for software rendering / low level graphics
 
 ## 📄 Portfolio
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/dinhduydev)
-[![Portfolio](https://img.shields.io/badge/portfolio%20website-FF00FF)](https://linkedin.com/in/dinhduydev)
+[![Portfolio](https://img.shields.io/badge/portfolio%20website-FF00FF)](https://dinhduydev.github.io/portfolio_website/)
 [![Resume](https://img.shields.io/badge/resume-00FF00)](https://drive.google.com/file/d/1DxAi_A85JnJggxaV3ncuepYvq7Um6hM0/view?usp=sharing)
 <br>
 
