@@ -68,14 +68,5 @@ and a complete system for test reminders.
 + Collisions and plane math logic supported by custom math and math derived from Jeffrey Thompson.
 
 ## Contacts:
-📧 Email: duydn.0714@gmail.com.
-☎️ Phone: +1 (413) 687-7649.
-
-<!-- - Open to work 💻 💼. -->
-<!-- - 🌱 I’m currently learning C, OpenCV, Java, DSA, LeetCode -->
-  <!-- 👯 I’m looking to collaborate on ... -->
-  <!-- 🤔 I’m looking for help with ... -->
-  <!-- 💬 Ask me about ... -->
-<!-- - 📫 How to reach me: duydn.0714@gmail.com -->
-<!-- - 😄 Pronouns: he/him/his -->
-<!-- - ⚡ Fun fact: Obssessed with old videogames. -->
+📧 Email: duydn.0714@gmail.com.<br>
+☎️ Phone: 🇺🇸 +1 (413) 687-7649
