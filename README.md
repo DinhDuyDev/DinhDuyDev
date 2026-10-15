@@ -22,7 +22,7 @@ Hobbyist game developer with passion for software rendering / low level graphics
 
 ##  💼 Work Experience:
 
-### Internship at FPT Software: June 2026 - Present @ Hoa Lac
+### Internship at FPT Software: June 2026 - September 15th @ Hoa Lac
 + Performed segmentation analysis on a 20,000+ user dataset, segmented users into low-engagement, moderate-engagement and high-engagement learners.
 + Identified low-engagement users as needing attention in a company-wide marketing campaign for higher user engagement in courses.
 + Assisted with coding a large project.
